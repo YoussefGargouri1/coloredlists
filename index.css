@@ -1,0 +1,9 @@
+*{
+    font-family: Montserrat;
+    font-size: 40px;
+}
+
+li {
+    padding: 10px;
+    cursor:pointer;
+}
